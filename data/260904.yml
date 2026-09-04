@@ -7,7 +7,7 @@ about:
   head: 8062423
   archived: false
   latestVersion: v1.20.1
-  collectedAt: 2026-09-04T19:44:08Z
+  collectedAt: 2026-09-04T20:57:29Z
 timeline:
   created: 2015-12-15
   lastCommit: 2026-08-17
@@ -82,6 +82,34 @@ total:
   openIssue: 24
   commit: 750
 ---
+path: /home/runner/.x-repo/github.com/zimfw/zimfw
+collectedAt: 2026-09-04T20:57:30Z
+loc:
+  RubyHtml:
+    code: 1143
+    comments: 0
+    blanks: 8
+    files: 31
+  Zsh:
+    code: 1128
+    comments: 58
+    blanks: 38
+    files: 1
+  Makefile:
+    code: 8
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 720
+    blanks: 185
+    files: 2
+total:
+  code: 2318
+  comments: 790
+  blanks: 235
+  files: 35
 ---
 date: "2026-08-24"
 repo:
