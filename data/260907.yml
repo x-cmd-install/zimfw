@@ -5,7 +5,7 @@ about:
   head: 8062423
   archived: false
   latestVersion: "v1.20.1"
-  collectedAt: 2026-09-07T05:37:36Z
+  collectedAt: 2026-09-07T18:52:46Z
 timeline:
   created: 2015-12-15
   lastCommit: 2026-08-17
@@ -81,7 +81,7 @@ total:
   commit: 750
 ---
 path: /home/runner/.x-repo/github.com/zimfw/zimfw
-collectedAt: 2026-09-07T05:37:38Z
+collectedAt: 2026-09-07T18:52:46Z
 loc:
   RubyHtml:
     code: 1143
@@ -201,7 +201,7 @@ checks:
       - 'Warn: no security file to analyze'
 ---
 eget:
-  collectedAt: 2026-09-07T05:37:38+00:00
+  collectedAt: 2026-09-07T18:52:47+00:00
   platform:
     darwin/arm64:
       name:  null
