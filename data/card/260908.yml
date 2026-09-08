@@ -5,7 +5,7 @@ about:
   head: 8062423
   archived: false
   latestVersion: "v1.20.1"
-  collectedAt: 2026-09-08T02:50:16Z
+  collectedAt: 2026-09-08T05:38:08Z
 timeline:
   created: 2015-12-15
   lastCommit: 2026-08-17
@@ -81,7 +81,7 @@ total:
   commit: 750
 ---
 path: /home/runner/.x-repo/github.com/zimfw/zimfw
-collectedAt: 2026-09-08T02:50:16Z
+collectedAt: 2026-09-08T05:38:09Z
 loc:
   RubyHtml:
     code: 1143
