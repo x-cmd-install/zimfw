@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.20.1"
   latestRelease: "v1.20.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:07:02Z
+  collectedAt: 2026-09-10T22:39:16Z
 timeline:
   created: 2015-12-15
   lastCommit: 2026-08-17
@@ -85,7 +85,7 @@ total:
   commit: 750
 ---
 path: /home/runner/.x-repo/github.com/zimfw/zimfw
-collectedAt: 2026-09-10T21:07:03Z
+collectedAt: 2026-09-10T22:39:17Z
 loc:
   RubyHtml:
     code: 1143
