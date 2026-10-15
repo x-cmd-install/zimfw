@@ -29,8 +29,8 @@ Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,709 · **Forks**: 181 · **Open issues**: 328 · **Contributors**: 41
+- **Stars**: 4,710 · **Forks**: 181 · **Open issues**: 328 · **Contributors**: 41
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 1 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-17 | 1 | 0 | 0 | 1 | 0 | 5 |
-| 360d | 2025-10-19 | 4 | 1 | 0 | 3 | 2 | 38 |
-| last720d | 2024-10-24 | 8 | 1 | 0 | 11 | 5 | 67 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 1 | 0 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-18 | 1 | 0 | 0 | 1 | 0 | 5 |
+| 360d | 2025-10-20 | 4 | 1 | 0 | 3 | 2 | 38 |
+| last720d | 2024-10-25 | 8 | 1 | 0 | 11 | 5 | 67 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for zimfw lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:52:06Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:36:13Z._
