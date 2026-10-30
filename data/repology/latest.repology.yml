@@ -2,8 +2,8 @@
   srcname: zimfw
   binname: zimfw
   visiblename: zimfw
-  version: 1.20.1
-  origversion: 1.20.1-1
+  version: 1.20.2
+  origversion: 1.20.2-1
   status: newest
   summary: Zsh plugin manager
   maintainers:
@@ -39,7 +39,7 @@
 - repo: homebrew
   srcname: zimfw
   visiblename: zimfw
-  version: 1.20.1
+  version: 1.20.2
   origversion: null
   status: newest
   summary: Zsh plugin manager
