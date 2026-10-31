@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 50843,
       "digest": "sha256:918e8948d08346d5f1373ec628d858e4732fbbb9991b25c22d1a9b3443a2edc2",
-      "download_count": 45,
+      "download_count": 229,
       "created_at": "2026-10-30T02:07:58Z",
       "updated_at": "2026-10-30T02:07:59Z",
       "browser_download_url": "https://github.com/zimfw/zimfw/releases/download/v1.20.2/zimfw.zsh"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12974,
       "digest": "sha256:61f65ca3d69f5ba6a1349be161e8e18be61366e869056352f8ba0d7065c263ff",
-      "download_count": 91,
+      "download_count": 477,
       "created_at": "2026-10-30T02:08:03Z",
       "updated_at": "2026-10-30T02:08:04Z",
       "browser_download_url": "https://github.com/zimfw/zimfw/releases/download/v1.20.2/zimfw.zsh.gz"
@@ -111,5 +111,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/zimfw/zimfw/tarball/v1.20.2",
   "zipball_url": "https://api.github.com/repos/zimfw/zimfw/zipball/v1.20.2",
-  "body": "### Fixed\r\n- Extra network call per module on every `check` and `update` action. The remote HEAD branch is now only updated when the local `origin/HEAD` is missing or dangling.\r\n- Versions are now compared with `is-at-least` instead of just checking whether they're different."
+  "body": "### Fixed\r\n- Extra network call per module on every `check` and `update` action. The remote HEAD branch is now only updated when the local `origin/HEAD` is missing or dangling.\r\n- Versions are now compared with `is-at-least` instead of just checking whether they're different.",
+  "reactions": {
+    "url": "https://api.github.com/repos/zimfw/zimfw/releases/428581863/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
