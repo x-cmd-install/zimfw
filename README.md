@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,718 · **Forks**: 181 · **Open issues**: 328 · **Contributors**: 42
+- **Stars**: 4,719 · **Forks**: 181 · **Open issues**: 328 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-02 | 1 | 0 | 0 | 0 | 0 | 6 |
-| 90d | 2026-08-03 | 2 | 0 | 0 | 0 | 0 | 10 |
-| last180d | 2026-05-05 | 2 | 0 | 0 | 1 | 0 | 11 |
-| 360d | 2025-11-06 | 4 | 1 | 0 | 3 | 2 | 32 |
-| last720d | 2024-11-11 | 9 | 1 | 0 | 10 | 5 | 70 |
+| 30d | 2026-10-03 | 1 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-03 | 1 | 0 | 0 | 0 | 0 | 6 |
+| 90d | 2026-08-04 | 2 | 0 | 0 | 0 | 0 | 10 |
+| last180d | 2026-05-06 | 2 | 0 | 0 | 1 | 0 | 11 |
+| 360d | 2025-11-07 | 4 | 1 | 0 | 3 | 2 | 32 |
+| last720d | 2024-11-12 | 9 | 1 | 0 | 10 | 5 | 70 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for zimfw lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:59:19Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:09:34Z._
