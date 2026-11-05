@@ -26,7 +26,7 @@ Total: **2,366** lines of code across **35** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.3 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,719 · **Forks**: 181 · **Open issues**: 328 · **Contributors**: 42
+- **Stars**: 4,722 · **Forks**: 181 · **Open issues**: 328 · **Contributors**: 42
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-05 | 1 | 0 | 0 | 0 | 0 | 7 |
-| 90d | 2026-08-06 | 2 | 0 | 0 | 0 | 0 | 11 |
-| last180d | 2026-05-08 | 2 | 0 | 0 | 1 | 0 | 12 |
-| 360d | 2025-11-09 | 4 | 1 | 0 | 3 | 2 | 33 |
-| last720d | 2024-11-14 | 9 | 1 | 0 | 10 | 5 | 71 |
+| 30d | 2026-10-06 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-06 | 1 | 0 | 0 | 0 | 0 | 7 |
+| 90d | 2026-08-07 | 2 | 0 | 0 | 0 | 0 | 11 |
+| last180d | 2026-05-09 | 2 | 0 | 0 | 1 | 0 | 12 |
+| 360d | 2025-11-10 | 4 | 1 | 0 | 3 | 2 | 33 |
+| last720d | 2024-11-15 | 9 | 1 | 0 | 10 | 5 | 71 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for zimfw lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:22:06Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:38:59Z._
