@@ -1,3 +1,36 @@
+- repo: nix_stable_24_11
+  srcname: zimfw
+  visiblename: zimfw
+  version: 1.15.0
+  origversion: null
+  status: outdated
+  summary: The Zsh configuration framework with blazing speed and modular extensions
+  maintainers:
+    - joedevivo@github
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: zimfw
+  visiblename: zimfw
+  version: 1.18.0
+  origversion: null
+  status: outdated
+  summary: The Zsh configuration framework with blazing speed and modular extensions
+  maintainers:
+    - joedevivo@github
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: zimfw
+  visiblename: zimfw
+  version: 1.18.0
+  origversion: null
+  status: outdated
+  summary: Zsh configuration framework with blazing speed and modular extensions
+  maintainers:
+    - joedevivo@github
+  licenses:
+    - MIT
 - repo: aur
   srcname: zimfw
   binname: zimfw
@@ -54,39 +87,6 @@
     - joedevivo@github
   licenses:
     - MIT
-- repo: nix_stable_24_11
-  srcname: zimfw
-  visiblename: zimfw
-  version: 1.15.0
-  origversion: null
-  status: outdated
-  summary: The Zsh configuration framework with blazing speed and modular extensions
-  maintainers:
-    - joedevivo@github
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: zimfw
-  visiblename: zimfw
-  version: 1.18.0
-  origversion: null
-  status: outdated
-  summary: The Zsh configuration framework with blazing speed and modular extensions
-  maintainers:
-    - joedevivo@github
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: zimfw
-  visiblename: zimfw
-  version: 1.18.0
-  origversion: null
-  status: outdated
-  summary: Zsh configuration framework with blazing speed and modular extensions
-  maintainers:
-    - joedevivo@github
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: zimfw
   visiblename: zimfw
@@ -111,6 +111,19 @@
     - MIT
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: zimfw
+  binnames:
+    - zimfw
+  visiblename: zimfw
+  version: 1.20.0
+  origversion: 1.20.0-2
+  status: outdated
+  maintainers:
+    - fsateler@debian.org
+  categories:
+    - universe/shells
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: zimfw
   binnames:
     - zimfw
