@@ -14,15 +14,15 @@ x install zimfw
 
 ## Code insight
 
-Total: **2,366** lines of code across **35** files in the top 5 languages.
+Total: **2,348** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| RubyHtml | 1,180 | 0 | 8 | 30 |
-| Zsh | 1,130 | 93 | 37 | 1 |
+| RubyHtml | 1,173 | 0 | 8 | 30 |
+| Zsh | 1,119 | 97 | 37 | 1 |
 | Bash | 43 | 2 | 2 | 1 |
 | Makefile | 13 | 0 | 4 | 1 |
-| Markdown | 0 | 728 | 187 | 2 |
+| Markdown | 0 | 737 | 188 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.2` (2026-10-30)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 306 · **Open issues**: 22 · **Commits**: 758
+- **Releases**: 43 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 306 · **Open issues**: 22 · **Commits**: 762
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 0 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-08 | 1 | 0 | 0 | 0 | 0 | 8 |
-| 90d | 2026-08-09 | 2 | 0 | 0 | 0 | 0 | 12 |
-| last180d | 2026-05-11 | 2 | 0 | 0 | 0 | 0 | 13 |
-| 360d | 2025-11-12 | 4 | 1 | 0 | 3 | 2 | 34 |
-| last720d | 2024-11-17 | 9 | 1 | 0 | 10 | 5 | 72 |
+| 30d | 2026-10-09 | 1 | 0 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-09 | 1 | 0 | 0 | 0 | 0 | 11 |
+| 90d | 2026-08-10 | 2 | 0 | 0 | 0 | 0 | 14 |
+| last180d | 2026-05-12 | 2 | 0 | 0 | 0 | 0 | 16 |
+| 360d | 2025-11-13 | 4 | 1 | 0 | 3 | 2 | 26 |
+| last720d | 2024-11-18 | 9 | 1 | 0 | 10 | 5 | 76 |
 
 ## Release assets
 
@@ -74,13 +74,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/zimfw). **2** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/zimfw). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `1.20.0` | ⚠️ outdated |
 | Homebrew | `1.20.2` | ✅ latest |
-| Nix unstable | `1.20.0` | ⚠️ outdated |
+| Nix unstable | `1.20.2` | ✅ latest |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for zimfw lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:56:54Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:53:35Z._
