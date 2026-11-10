@@ -14,15 +14,15 @@ x install zimfw
 
 ## 代码洞察
 
-合计: **2,348** 行代码（覆盖前 5 种语言、共 **35** 个文件）。
+合计: **2,357** 行代码（覆盖前 5 种语言、共 **35** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| RubyHtml | 1,173 | 0 | 8 | 30 |
-| Zsh | 1,119 | 97 | 37 | 1 |
+| RubyHtml | 1,178 | 0 | 8 | 30 |
+| Zsh | 1,123 | 97 | 37 | 1 |
 | Bash | 43 | 2 | 2 | 1 |
 | Makefile | 13 | 0 | 4 | 1 |
-| Markdown | 0 | 737 | 188 | 2 |
+| Markdown | 0 | 743 | 191 | 2 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,45 +42,45 @@ x install zimfw
 
 ## 发布
 
-- **最新版本**: `v1.20.2` (2026-10-30)
-- **最近提交**: 2026-11-07
+- **最新版本**: `v1.21.0` (2026-11-09)
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 4,722 · **Fork**: 181 · **开放 issue**: 328 · **贡献者**: 42
+- **Star**: 4,723 · **Fork**: 181 · **开放 issue**: 328 · **贡献者**: 42
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 30 · **开放 PR**: 0 · **已关闭 issue**: 306 · **开放 issue**: 22 · **提交数**: 762
+- **发布数**: 44 · **已合并 PR**: 30 · **开放 PR**: 0 · **已关闭 issue**: 306 · **开放 issue**: 22 · **提交数**: 765
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 0 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-10 | 1 | 0 | 0 | 0 | 0 | 11 |
-| 90d | 2026-08-11 | 2 | 0 | 0 | 0 | 0 | 14 |
-| last180d | 2026-05-13 | 2 | 0 | 0 | 0 | 0 | 16 |
-| 360d | 2025-11-14 | 4 | 1 | 0 | 3 | 2 | 26 |
-| last720d | 2024-11-19 | 9 | 1 | 0 | 10 | 5 | 76 |
+| 30d | 2026-10-11 | 2 | 0 | 0 | 0 | 0 | 14 |
+| last60d | 2026-09-11 | 2 | 0 | 0 | 0 | 0 | 14 |
+| 90d | 2026-08-12 | 3 | 0 | 0 | 0 | 0 | 17 |
+| last180d | 2026-05-14 | 3 | 0 | 0 | 0 | 0 | 19 |
+| 360d | 2025-11-15 | 5 | 1 | 0 | 2 | 2 | 29 |
+| last720d | 2024-11-20 | 10 | 1 | 0 | 10 | 5 | 79 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [zimfw.zsh](https://github.com/zimfw/zimfw/releases/download/v1.20.2/zimfw.zsh) | 49.7 KiB | `other` |
-| [zimfw.zsh.gz](https://github.com/zimfw/zimfw/releases/download/v1.20.2/zimfw.zsh.gz) | 12.7 KiB | `other` |
+| [zimfw.zsh](https://github.com/zimfw/zimfw/releases/download/v1.21.0/zimfw.zsh) | 52.5 KiB | `other` |
+| [zimfw.zsh.gz](https://github.com/zimfw/zimfw/releases/download/v1.21.0/zimfw.zsh.gz) | 13.6 KiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/zimfw) 上共有 **12** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/zimfw) 上共有 **12** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `1.20.0` | ⚠️ outdated |
-| Homebrew | `1.20.2` | ✅ latest |
-| Nix unstable | `1.20.2` | ✅ latest |
+| Homebrew | `1.20.2` | ⚠️ outdated |
+| Nix unstable | `1.20.2` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -91,4 +91,4 @@ zimfw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:44:41Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:23:04Z._
