@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/zimfw/zimfw/releases/428581863",
-  "assets_url": "https://api.github.com/repos/zimfw/zimfw/releases/428581863/assets",
-  "upload_url": "https://uploads.github.com/repos/zimfw/zimfw/releases/428581863/assets{?name,label}",
-  "html_url": "https://github.com/zimfw/zimfw/releases/tag/v1.20.2",
-  "id": 428581863,
+  "url": "https://api.github.com/repos/zimfw/zimfw/releases/439188068",
+  "assets_url": "https://api.github.com/repos/zimfw/zimfw/releases/439188068/assets",
+  "upload_url": "https://uploads.github.com/repos/zimfw/zimfw/releases/439188068/assets{?name,label}",
+  "html_url": "https://github.com/zimfw/zimfw/releases/tag/v1.21.0",
+  "id": 439188068,
   "author": {
     "login": "ericbn",
     "id": 4120606,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAty-ac4Zi6Pn",
-  "tag_name": "v1.20.2",
+  "node_id": "RE_kwDOAty-ac4aLXpk",
+  "tag_name": "v1.21.0",
   "target_commitish": "master",
-  "name": "v1.20.2",
+  "name": "v1.21.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-30T02:05:30Z",
-  "updated_at": "2026-10-30T02:08:13Z",
-  "published_at": "2026-10-30T02:08:13Z",
+  "created_at": "2026-11-09T13:45:33Z",
+  "updated_at": "2026-11-09T13:49:07Z",
+  "published_at": "2026-11-09T13:49:07Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/zimfw/zimfw/releases/assets/690612600",
-      "id": 690612600,
-      "node_id": "RA_kwDOAty-ac4pKel4",
+      "url": "https://api.github.com/repos/zimfw/zimfw/releases/assets/727649705",
+      "id": 727649705,
+      "node_id": "RA_kwDOAty-ac4rXw2p",
       "name": "zimfw.zsh",
       "label": null,
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 50843,
-      "digest": "sha256:918e8948d08346d5f1373ec628d858e4732fbbb9991b25c22d1a9b3443a2edc2",
-      "download_count": 2147,
-      "created_at": "2026-10-30T02:07:58Z",
-      "updated_at": "2026-10-30T02:07:59Z",
-      "browser_download_url": "https://github.com/zimfw/zimfw/releases/download/v1.20.2/zimfw.zsh"
+      "size": 53761,
+      "digest": "sha256:8f631937bc6afdfdf26f91a8080dad86e84051f92bb1d91db8004dd1c3383cbd",
+      "download_count": 154,
+      "created_at": "2026-11-09T13:47:44Z",
+      "updated_at": "2026-11-09T13:47:45Z",
+      "browser_download_url": "https://github.com/zimfw/zimfw/releases/download/v1.21.0/zimfw.zsh"
     },
     {
-      "url": "https://api.github.com/repos/zimfw/zimfw/releases/assets/690612817",
-      "id": 690612817,
-      "node_id": "RA_kwDOAty-ac4pKepR",
+      "url": "https://api.github.com/repos/zimfw/zimfw/releases/assets/727649877",
+      "id": 727649877,
+      "node_id": "RA_kwDOAty-ac4rXw5V",
       "name": "zimfw.zsh.gz",
       "label": null,
       "uploader": {
@@ -101,27 +101,15 @@
       },
       "content_type": "application/x-gzip",
       "state": "uploaded",
-      "size": 12974,
-      "digest": "sha256:61f65ca3d69f5ba6a1349be161e8e18be61366e869056352f8ba0d7065c263ff",
-      "download_count": 3306,
-      "created_at": "2026-10-30T02:08:03Z",
-      "updated_at": "2026-10-30T02:08:04Z",
-      "browser_download_url": "https://github.com/zimfw/zimfw/releases/download/v1.20.2/zimfw.zsh.gz"
+      "size": 13897,
+      "digest": "sha256:7efe046c039b8732f8d8163517cffc4459892870c8e148d4fb3f33c5f1a583eb",
+      "download_count": 277,
+      "created_at": "2026-11-09T13:47:49Z",
+      "updated_at": "2026-11-09T13:47:49Z",
+      "browser_download_url": "https://github.com/zimfw/zimfw/releases/download/v1.21.0/zimfw.zsh.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/zimfw/zimfw/tarball/v1.20.2",
-  "zipball_url": "https://api.github.com/repos/zimfw/zimfw/zipball/v1.20.2",
-  "body": "### Fixed\r\n- Extra network call per module on every `check` and `update` action. The remote HEAD branch is now only updated when the local `origin/HEAD` is missing or dangling.\r\n- Versions are now compared with `is-at-least` instead of just checking whether they're different.",
-  "reactions": {
-    "url": "https://api.github.com/repos/zimfw/zimfw/releases/428581863/reactions",
-    "total_count": 2,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 2,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/zimfw/zimfw/tarball/v1.21.0",
+  "zipball_url": "https://api.github.com/repos/zimfw/zimfw/zipball/v1.21.0",
+  "body": "### Added\r\n- `ZIMFW_VENDOR` build variable for package maintainers. When set, `zimfw info` shows it next to the version, and the version check and the `check-version` and `upgrade` actions are disabled.\r\n\r\n### Changed\r\n- Make zimfw.zsh build reproducible, by not showing the build time and the previous commit in `zimfw info` anymore.\r\n\r\n### Fixed\r\n- `clean-compiled` and the detection of default initialization files ignoring symlinked directories and files.\r\n- `uninstall` deleting a module still in use, because it compared paths without resolving symlinks.\r\n- `${HOME}` being replaced in the middle of paths in init.zsh.\r\n"
 }
