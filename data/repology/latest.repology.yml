@@ -39,9 +39,9 @@
 - repo: homebrew
   srcname: zimfw
   visiblename: zimfw
-  version: 1.20.2
+  version: 1.21.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Zsh plugin manager
 - repo: nix_stable_24_05
   srcname: zimfw

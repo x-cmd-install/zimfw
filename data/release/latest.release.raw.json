@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 53761,
       "digest": "sha256:8f631937bc6afdfdf26f91a8080dad86e84051f92bb1d91db8004dd1c3383cbd",
-      "download_count": 154,
+      "download_count": 362,
       "created_at": "2026-11-09T13:47:44Z",
       "updated_at": "2026-11-09T13:47:45Z",
       "browser_download_url": "https://github.com/zimfw/zimfw/releases/download/v1.21.0/zimfw.zsh"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 13897,
       "digest": "sha256:7efe046c039b8732f8d8163517cffc4459892870c8e148d4fb3f33c5f1a583eb",
-      "download_count": 277,
+      "download_count": 610,
       "created_at": "2026-11-09T13:47:49Z",
       "updated_at": "2026-11-09T13:47:49Z",
       "browser_download_url": "https://github.com/zimfw/zimfw/releases/download/v1.21.0/zimfw.zsh.gz"
