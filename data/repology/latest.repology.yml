@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: zimfw
+  visiblename: zimfw
+  version: 1.18.0
+  origversion: null
+  status: outdated
+  summary: Zsh configuration framework with blazing speed and modular extensions
+  maintainers:
+    - joedevivo@github
+  licenses:
+    - MIT
 - repo: aur
   srcname: zimfw
   binname: zimfw
@@ -16,9 +27,9 @@
   binnames:
     - zimfw
   visiblename: zimfw
-  version: 1.20.0
-  origversion: 1.20.0-2
-  status: outdated
+  version: 1.21.0
+  origversion: 1.21.0-1
+  status: newest
   maintainers:
     - fsateler@debian.org
   categories:
@@ -29,9 +40,9 @@
   binnames:
     - zimfw
   visiblename: zimfw
-  version: 1.20.0
-  origversion: 1.20.0-2
-  status: outdated
+  version: 1.21.0
+  origversion: 1.21.0-1
+  status: newest
   maintainers:
     - fsateler@debian.org
   categories:
@@ -72,17 +83,6 @@
   origversion: null
   status: outdated
   summary: The Zsh configuration framework with blazing speed and modular extensions
-  maintainers:
-    - joedevivo@github
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: zimfw
-  visiblename: zimfw
-  version: 1.18.0
-  origversion: null
-  status: outdated
-  summary: Zsh configuration framework with blazing speed and modular extensions
   maintainers:
     - joedevivo@github
   licenses:
