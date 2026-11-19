@@ -22,7 +22,7 @@ Total: **2,357** lines of code across **35** files in the top 5 languages.
 | Zsh | 1,123 | 97 | 37 | 1 |
 | Bash | 43 | 2 | 2 | 1 |
 | Makefile | 13 | 0 | 4 | 1 |
-| Markdown | 0 | 743 | 191 | 2 |
+| Markdown | 0 | 748 | 193 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.21.0` (2026-11-09)
-- **Last commit**: 2026-11-09
+- **Latest**: `v1.21.1` (2026-11-17)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 4,725 · **Forks**: 181 · **Open issues**: 328 · **Contributors**: 42
+- **Stars**: 4,728 · **Forks**: 181 · **Open issues**: 328 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 306 · **Open issues**: 22 · **Commits**: 765
+- **Releases**: 45 · **Merged PRs**: 30 · **Open PRs**: 0 · **Closed issues**: 306 · **Open issues**: 22 · **Commits**: 767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 0 | 0 | 0 | 0 | 14 |
-| last60d | 2026-09-17 | 2 | 0 | 0 | 0 | 0 | 14 |
-| 90d | 2026-08-18 | 2 | 0 | 0 | 0 | 0 | 15 |
-| last180d | 2026-05-20 | 3 | 0 | 0 | 0 | 0 | 19 |
-| 360d | 2025-11-21 | 4 | 0 | 0 | 2 | 2 | 27 |
-| last720d | 2024-11-26 | 9 | 1 | 0 | 9 | 5 | 78 |
+| 30d | 2026-10-20 | 3 | 0 | 0 | 0 | 0 | 16 |
+| last60d | 2026-09-20 | 3 | 0 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-21 | 3 | 0 | 0 | 0 | 0 | 17 |
+| last180d | 2026-05-23 | 4 | 0 | 0 | 0 | 0 | 21 |
+| 360d | 2025-11-24 | 5 | 0 | 0 | 2 | 2 | 29 |
+| last720d | 2024-11-29 | 10 | 1 | 0 | 9 | 5 | 78 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [zimfw.zsh](https://github.com/zimfw/zimfw/releases/download/v1.21.0/zimfw.zsh) | 52.5 KiB | `other` |
-| [zimfw.zsh.gz](https://github.com/zimfw/zimfw/releases/download/v1.21.0/zimfw.zsh.gz) | 13.6 KiB | `other` |
+| [zimfw.zsh](https://github.com/zimfw/zimfw/releases/download/v1.21.1/zimfw.zsh) | 52.5 KiB | `other` |
+| [zimfw.zsh.gz](https://github.com/zimfw/zimfw/releases/download/v1.21.1/zimfw.zsh.gz) | 13.6 KiB | `other` |
 
 ## Distribution status
 
@@ -78,8 +78,8 @@ Reported by **12** distros on [repology.org](https://repology.org/project/zimfw)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `1.21.0` | ✅ latest |
-| Homebrew | `1.21.0` | ✅ latest |
+| Debian unstable | `1.21.1` | ✅ latest |
+| Homebrew | `1.21.1` | ✅ latest |
 | Nix unstable | `1.20.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -91,4 +91,4 @@ Install metadata for zimfw lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:03:26Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:38:34Z._
