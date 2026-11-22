@@ -10,6 +10,19 @@
     - ericbn@aur
   licenses:
     - MIT
+- repo: debian_14
+  subrepo: forky/main
+  srcname: zimfw
+  binnames:
+    - zimfw
+  visiblename: zimfw
+  version: 1.21.1
+  origversion: 1.21.1-1
+  status: newest
+  maintainers:
+    - fsateler@debian.org
+  categories:
+    - shells
 - repo: debian_unstable
   subrepo: sid/main
   srcname: zimfw
@@ -109,6 +122,19 @@
     - joedevivo@github
   licenses:
     - MIT
+- repo: raspbian_testing
+  subrepo: main
+  srcname: zimfw
+  binnames:
+    - zimfw
+  visiblename: zimfw
+  version: 1.21.1
+  origversion: 1.21.1-1
+  status: newest
+  maintainers:
+    - fsateler@debian.org
+  categories:
+    - shells
 - repo: ubuntu_26_10
   subrepo: stonking/universe
   srcname: zimfw
