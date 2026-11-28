@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 0 | 0 | 0 | 0 | 12 |
-| last60d | 2026-09-28 | 3 | 0 | 0 | 0 | 0 | 16 |
-| 90d | 2026-08-29 | 3 | 0 | 0 | 0 | 0 | 17 |
-| last180d | 2026-05-31 | 4 | 0 | 0 | 0 | 0 | 21 |
-| 360d | 2025-12-02 | 5 | 0 | 0 | 2 | 2 | 27 |
-| last720d | 2024-12-07 | 10 | 1 | 0 | 9 | 5 | 78 |
+| 30d | 2026-10-29 | 3 | 0 | 0 | 0 | 0 | 12 |
+| last60d | 2026-09-29 | 3 | 0 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-30 | 3 | 0 | 0 | 0 | 0 | 17 |
+| last180d | 2026-06-01 | 4 | 0 | 0 | 0 | 0 | 21 |
+| 360d | 2025-12-03 | 5 | 0 | 0 | 2 | 2 | 27 |
+| last720d | 2024-12-08 | 10 | 1 | 0 | 9 | 5 | 78 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for zimfw lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:10:16Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:11:18Z._
